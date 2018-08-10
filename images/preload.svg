@@ -1,0 +1,356 @@
+<?xml version="1.0"?>
+<svg width="100%" height="100%" viewBox="290 0 800 640"
+    xmlns="http://www.w3.org/2000/svg" version="1.1"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+
+  <!-- Draw the outline of the motion path in grey, along
+       with 2 small circles at key points -->
+
+  <path d="M -140, 191 C 396, 186, 152, 548, 1700, 505"
+      stroke="none" stroke-width="2"
+      fill="none" id="theMotionPath"/>
+
+
+
+  <!-- Red circle which will be moved along the motion path. -->
+
+  <line opacity="0" x1="0" y1="-170" x2="0" y2="170"
+        stroke-width="13" stroke="#FFFFFF">
+
+    <!-- Define the motion path animation -->
+    <animate fill="freeze" attributeName="opacity" attributeType="CSS" from="0" to="1" dur="0.1s"></animate>
+    <animateMotion fill="freeze"  id="a1" dur="1.5s">
+      <mpath xlink:href="#theMotionPath"/>
+    </animateMotion>
+    <animateTransform  id="a2" attributeType="xml"
+            attributeName="transform"
+            type="rotate"
+            from="45 0 0"
+            to="170 0 0"
+            dur="1.5s"
+            />
+  </line>
+  <line opacity="0" x1="0" y1="-150" x2="0" y2="150"
+        stroke-width="12" stroke="#FFFFFF">
+
+    <!-- Define the motion path animation -->
+    <animate fill="freeze" attributeName="opacity" attributeType="CSS" begin="a2.begin+0.05s" from="0" to="1" dur="0.1s"></animate>
+    <animateMotion fill="freeze" begin="a1.begin+0.05s" dur="1.5s" >
+      <mpath xlink:href="#theMotionPath"/>
+    </animateMotion>
+    <animateTransform attributeType="xml"
+            attributeName="transform"
+            type="rotate"
+            from="45 0 0"
+            to="170 0 0"
+            begin="a2.begin+0.05s"
+            dur="1.5s"
+            />
+  </line>
+  <line opacity="0" x1="0" y1="-150" x2="0" y2="150"
+        stroke-width="11" stroke="#FFFFFF">
+
+    <!-- Define the motion path animation -->
+    <animate fill="freeze" attributeName="opacity" attributeType="CSS" begin="a2.begin+0.1s" from="0" to="1" dur="0.1s"></animate>
+    <animateMotion fill="freeze" begin="a1.begin+0.1s" dur="1.5s">
+      <mpath xlink:href="#theMotionPath"/>
+    </animateMotion>
+    <animateTransform attributeType="xml"
+            attributeName="transform"
+            type="rotate"
+            from="45 0 0"
+            to="170 0 0"
+            begin="a2.begin+0.1s"
+            dur="1.5s"
+            />
+  </line>
+  <line opacity="0" x1="0" y1="-150" x2="0" y2="150"
+        stroke-width="10" stroke="#FFFFFF">
+
+    <!-- Define the motion path animation -->
+    <animate fill="freeze" attributeName="opacity" attributeType="CSS" begin="a2.begin+0.15s" from="0" to="1" dur="0.1s"></animate>
+    <animateMotion fill="freeze" begin="a1.begin+0.15s" dur="1.5s">
+      <mpath xlink:href="#theMotionPath"/>
+    </animateMotion>
+    <animateTransform attributeType="xml"
+            attributeName="transform"
+            type="rotate"
+            from="45 0 0"
+            to="170 0 0"
+            begin="a2.begin+0.15s"
+            dur="1.5s"
+            />
+  </line>
+  <line opacity="0" x1="0" y1="-150" x2="0" y2="150"
+        stroke-width="9" stroke="#FFFFFF">
+
+    <!-- Define the motion path animation -->
+    <animate fill="freeze" attributeName="opacity" attributeType="CSS" begin="a2.begin+0.2s" from="0" to="1" dur="0.1s"></animate>
+    <animateMotion fill="freeze" begin="a1.begin+0.2s" dur="1.5s" >
+      <mpath xlink:href="#theMotionPath"/>
+    </animateMotion>
+    <animateTransform attributeType="xml"
+            attributeName="transform"
+            type="rotate"
+            from="45 0 0"
+            to="170 0 0"
+            begin="a2.begin+0.2s"
+            dur="1.5s"
+            />
+  </line>
+  <line opacity="0" x1="0" y1="-150" x2="0" y2="150"
+        stroke-width="8" stroke="#FFFFFF">
+
+    <!-- Define the motion path animation -->
+    <animate fill="freeze" attributeName="opacity" attributeType="CSS" begin="a2.begin+0.25s" from="0" to="1" dur="0.1s"></animate>
+    <animateMotion fill="freeze" begin="a1.begin+0.25s" dur="1.5s" >
+      <mpath xlink:href="#theMotionPath"/>
+    </animateMotion>
+    <animateTransform attributeType="xml"
+            attributeName="transform"
+            type="rotate"
+            from="45 0 0"
+            to="170 0 0"
+            begin="a2.begin+0.25s"
+            dur="1.5s"
+            />
+  </line>
+  <line opacity="0" x1="0" y1="-150" x2="0" y2="150"
+        stroke-width="7" stroke="#FFFFFF">
+
+    <!-- Define the motion path animation -->
+    <animate fill="freeze" attributeName="opacity" attributeType="CSS" begin="a2.begin+0.3s" from="0" to="1" dur="0.1s"></animate>
+    <animateMotion fill="freeze" begin="a1.begin+0.3s" dur="1.5s" >
+      <mpath xlink:href="#theMotionPath"/>
+    </animateMotion>
+    <animateTransform attributeType="xml"
+            attributeName="transform"
+            type="rotate"
+            from="45 0 0"
+            to="170 0 0"
+            begin="a2.begin+0.3s"
+            dur="1.5s"
+            />
+  </line>
+  <line opacity="0" x1="0" y1="-150" x2="0" y2="150"
+        stroke-width="6" stroke="#FFFFFF">
+
+    <!-- Define the motion path animation -->
+    <animate fill="freeze" attributeName="opacity" attributeType="CSS" begin="a2.begin+0.35s" from="0" to="1" dur="0.1s"></animate>
+    <animateMotion fill="freeze" begin="a1.begin+0.35s" dur="1.5s" >
+      <mpath xlink:href="#theMotionPath"/>
+    </animateMotion>
+    <animateTransform attributeType="xml"
+            attributeName="transform"
+            type="rotate"
+            from="45 0 0"
+            to="170 0 0"
+            begin="a2.begin+0.35s"
+            dur="1.5s"
+            />
+  </line>
+  <line opacity="0" x1="0" y1="-150" x2="0" y2="150"
+        stroke-width="5" stroke="#FFFFFF">
+
+    <!-- Define the motion path animation -->
+    <animate fill="freeze" attributeName="opacity" attributeType="CSS" begin="a2.begin+0.4s" from="0" to="1" dur="0.1s"></animate>
+    <animateMotion fill="freeze" begin="a1.begin+0.4s" dur="1.5s" >
+      <mpath xlink:href="#theMotionPath"/>
+    </animateMotion>
+    <animateTransform attributeType="xml"
+            attributeName="transform"
+            type="rotate"
+            from="45 0 0"
+            to="170 0 0"
+            begin="a2.begin+0.4s"
+            dur="1.5s"
+            />
+  </line>
+  <line opacity="0" x1="0" y1="-150" x2="0" y2="150"
+        stroke-width="4" stroke="#FFFFFF">
+
+    <!-- Define the motion path animation -->
+    <animate fill="freeze" attributeName="opacity" attributeType="CSS" begin="a2.begin+0.45s" from="0" to="1" dur="0.1s"></animate>
+    <animateMotion fill="freeze" begin="a1.begin+0.45s" dur="1.5s" >
+      <mpath xlink:href="#theMotionPath"/>
+    </animateMotion>
+    <animateTransform attributeType="xml"
+            attributeName="transform"
+            type="rotate"
+            from="45 0 0"
+            to="170 0 0"
+            begin="a2.begin+0.45s"
+            dur="1.5s"
+            />
+  </line>
+  <line opacity="0" x1="0" y1="-150" x2="0" y2="150"
+        stroke-width="4" stroke="#FFFFFF">
+
+    <!-- Define the motion path animation -->
+    <animate fill="freeze" attributeName="opacity" attributeType="CSS" begin="a2.begin+0.5s" from="0" to="1" dur="0.1s"></animate>
+    <animateMotion fill="freeze" begin="a1.begin+0.5s" dur="1.5s" >
+      <mpath xlink:href="#theMotionPath"/>
+    </animateMotion>
+    <animateTransform attributeType="xml"
+            attributeName="transform"
+            type="rotate"
+            from="45 0 0"
+            to="170 0 0"
+            begin="a2.begin+0.5s"
+            dur="1.5s"
+            />
+  </line>
+  <line opacity="0" x1="0" y1="-150" x2="0" y2="150"
+        stroke-width="4" stroke="#FFFFFF">
+
+    <!-- Define the motion path animation -->
+    <animate fill="freeze" attributeName="opacity" attributeType="CSS" begin="a2.begin+0.55s" from="0" to="1" dur="0.1s"></animate>
+    <animateMotion fill="freeze" begin="a1.begin+0.55s" dur="1.5s" >
+      <mpath xlink:href="#theMotionPath"/>
+    </animateMotion>
+    <animateTransform attributeType="xml"
+            attributeName="transform"
+            type="rotate"
+            from="45 0 0"
+            to="170 0 0"
+            begin="a2.begin+0.55s"
+            dur="1.5s"
+            />
+  </line>
+  <line opacity="0" x1="0" y1="-150" x2="0" y2="150"
+        stroke-width="4" stroke="#FFFFFF">
+
+    <!-- Define the motion path animation -->
+    <animate fill="freeze" attributeName="opacity" attributeType="CSS" begin="a2.begin+0.6s" from="0" to="1" dur="0.1s"></animate>
+    <animateMotion fill="freeze" begin="a1.begin+0.6s" dur="1.5s" >
+      <mpath xlink:href="#theMotionPath"/>
+    </animateMotion>
+    <animateTransform attributeType="xml"
+            attributeName="transform"
+            type="rotate"
+            from="45 0 0"
+            to="170 0 0"
+            begin="a2.begin+0.6s"
+            dur="1.5s"
+            />
+  </line>
+  <line opacity="0" x1="0" y1="-150" x2="0" y2="150"
+        stroke-width="4" stroke="#FFFFFF">
+
+    <!-- Define the motion path animation -->
+    <animate fill="freeze" attributeName="opacity" attributeType="CSS" begin="a2.begin+0.65s" from="0" to="1" dur="0.1s"></animate>
+    <animateMotion fill="freeze" begin="a1.begin+0.65s" dur="1.5s" >
+      <mpath xlink:href="#theMotionPath"/>
+    </animateMotion>
+    <animateTransform attributeType="xml"
+            attributeName="transform"
+            type="rotate"
+            from="45 0 0"
+            to="170 0 0"
+            begin="a2.begin+0.65s"
+            dur="1.5s"
+            />
+  </line>
+  <line opacity="0" x1="0" y1="-150" x2="0" y2="150"
+        stroke-width="4" stroke="#FFFFFF">
+
+    <!-- Define the motion path animation -->
+    <animate fill="freeze" attributeName="opacity" attributeType="CSS" begin="a2.begin+0.7s" from="0" to="1" dur="0.1s"></animate>
+    <animateMotion fill="freeze" begin="a1.begin+0.7s" dur="1.5s" >
+      <mpath xlink:href="#theMotionPath"/>
+    </animateMotion>
+    <animateTransform attributeType="xml"
+            attributeName="transform"
+            type="rotate"
+            from="45 0 0"
+            to="170 0 0"
+            begin="a2.begin+0.7s"
+            dur="1.5s"
+            />
+  </line>
+  <line opacity="0" x1="0" y1="-150" x2="0" y2="150"
+        stroke-width="4" stroke="#FFFFFF">
+
+    <!-- Define the motion path animation -->
+    <animate fill="freeze" attributeName="opacity" attributeType="CSS" begin="a2.begin+0.75s" from="0" to="1" dur="0.1s"></animate>
+    <animateMotion fill="freeze" begin="a1.begin+0.75s" dur="1.5s" >
+      <mpath xlink:href="#theMotionPath"/>
+    </animateMotion>
+    <animateTransform attributeType="xml"
+            attributeName="transform"
+            type="rotate"
+            from="45 0 0"
+            to="170 0 0"
+            begin="a2.begin+0.75s"
+            dur="1.5s"
+            />
+  </line>
+  <line opacity="0" x1="0" y1="-150" x2="0" y2="150"
+        stroke-width="4" stroke="#FFFFFF">
+
+    <!-- Define the motion path animation -->
+    <animate fill="freeze" attributeName="opacity" attributeType="CSS" begin="a2.begin+0.8s" from="0" to="1" dur="0.1s"></animate>
+    <animateMotion fill="freeze" begin="a1.begin+0.8s" dur="1.5s" >
+      <mpath xlink:href="#theMotionPath"/>
+    </animateMotion>
+    <animateTransform attributeType="xml"
+            attributeName="transform"
+            type="rotate"
+            from="45 0 0"
+            to="170 0 0"
+            begin="a2.begin+0.8s"
+            dur="1.5s"
+            />
+  </line>
+  <line opacity="0" x1="0" y1="-150" x2="0" y2="150"
+        stroke-width="4" stroke="#F7B600">
+
+    <!-- Define the motion path animation -->
+    <animate fill="freeze" attributeName="opacity" attributeType="CSS" begin="a2.begin+0.85s" from="0" to="1" dur="0.1s"></animate>
+    <animateMotion fill="freeze" begin="a1.begin+0.85s" dur="1.5s" >
+      <mpath xlink:href="#theMotionPath"/>
+    </animateMotion>
+    <animateTransform attributeType="xml"
+            attributeName="transform"
+            type="rotate"
+            from="45 0 0"
+            to="170 0 0"
+            begin="a2.begin+0.85s"
+            dur="1.5s"
+            />
+  </line>
+  <line opacity="0" x1="0" y1="-150" x2="0" y2="150"
+        stroke-width="4" stroke="#F7B600">
+
+    <!-- Define the motion path animation -->
+    <animate fill="freeze" attributeName="opacity" attributeType="CSS" begin="a2.begin+0.9s" from="0" to="1" dur="0.1s"></animate>
+    <animateMotion fill="freeze" begin="a1.begin+0.9s" dur="1.5s" >
+      <mpath xlink:href="#theMotionPath"/>
+    </animateMotion>
+    <animateTransform attributeType="xml"
+            attributeName="transform"
+            type="rotate"
+            from="45 0 0"
+            to="170 0 0"
+            begin="a2.begin+0.9s"
+            dur="1.5s"
+            />
+  </line>
+  <line opacity="0" x1="0" y1="-150" x2="0" y2="150"
+        stroke-width="4" stroke="#F7B600">
+
+    <!-- Define the motion path animation -->
+    <animate fill="freeze" attributeName="opacity" attributeType="CSS" begin="a2.begin+0.95s" from="0" to="1" dur="0.1s"></animate>
+    <animateMotion fill="freeze" begin="a1.begin+0.95s" dur="1.5s" >
+      <mpath xlink:href="#theMotionPath"/>
+    </animateMotion>
+    <animateTransform attributeType="xml"
+            attributeName="transform"
+            type="rotate"
+            from="45 0 0"
+            to="170 0 0"
+            begin="a2.begin+0.95s"
+            dur="1.5s"
+            />
+  </line>
+</svg>

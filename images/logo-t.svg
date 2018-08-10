@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 210 218" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g>
+        <g transform="matrix(1.79924,0,0,1.79924,24.9738,20.3329)">
+            <path d="M43.6,92.9C43.9,93 44.5,93 44.8,92.9C44.8,92.9 67.3,86 78.9,65.7C90.5,45.4 88.2,13.4 88.2,13.4C88.2,13 87.9,12.6 87.6,12.5C87.6,12.5 84,10.8 73.9,9.5C63.8,8.3 44.9,8.1 44.9,8.1C44.5,8.1 44,8.1 43.6,8.1C43.6,8.1 24.6,8.3 14.5,9.5C4.4,10.7 0.8,12.5 0.8,12.5C0.5,12.7 0.2,13.1 0.2,13.4C0.2,13.4 -2.1,45.5 9.5,65.7C21.1,86 43.6,92.9 43.6,92.9" style="fill:rgb(252,179,22);fill-rule:nonzero;"/>
+        </g>
+        <g transform="matrix(1.79924,0,0,1.79924,24.9738,20.3329)">
+            <path d="M80.8,7.4C80.8,7 80.4,6.6 80.1,6.5C80.1,6.5 72.7,3.5 63.7,1.7C54.6,-0.1 44.9,0 44.9,0C44.5,0 44,0 43.6,0C43.6,0 33.8,-0.1 24.8,1.7C15.8,3.5 8.4,6.5 8.4,6.5C8,6.6 7.7,7 7.7,7.4C7.7,7.4 4.8,29.9 8.8,48C12.8,66.1 21.4,76.3 21.4,76.3C21.6,76.6 21.9,76.8 21.9,76.7C21.9,76.7 21.9,76.5 21.9,76.3C20.7,73.5 20,70.4 19.9,67.1C19.9,66.9 19.9,66.7 19.9,66.6C19.9,53.2 30.8,42.3 44.2,42.3C57.6,42.3 68.5,53.2 68.5,66.6C68.5,66.8 68.5,66.9 68.5,67.1C68.4,70.3 67.7,73.4 66.5,76.3C66.5,76.5 66.4,76.6 66.5,76.7C66.5,76.8 66.8,76.6 67,76.3C67,76.3 75.6,66.1 79.6,48C83.7,29.9 80.8,7.4 80.8,7.4" style="fill:rgb(16,53,127);fill-rule:nonzero;"/>
+        </g>
+        <g transform="matrix(1.79924,0,0,1.79924,24.9738,20.3329)">
+            <path d="M79.9,8.2C79.9,7.9 79.6,7.5 79.2,7.3C79.2,7.3 72,4.4 63.2,2.6C54.4,0.9 44.9,1 44.9,1C44.7,1 44.5,1 44.3,1L44.3,42.3C47,42.3 49.6,42.7 52,43.5C53.7,44 55.3,44.8 56.7,45.7C63.9,49.9 68.7,57.7 68.7,66.7C68.7,66.9 68.7,67 68.7,67.2C68.6,69.6 68.2,71.9 67.6,74.1C69.9,70.9 75.8,61.7 78.9,47.8C82.7,30.1 79.9,8.2 79.9,8.2" style="fill:rgb(3,78,162);fill-rule:nonzero;"/>
+        </g>
+        <g transform="matrix(1.79924,0,0,1.79924,24.9738,20.3329)">
+            <path d="M64.7,66.6C64.7,77.9 55.5,87.1 44.2,87.1C32.9,87.1 23.7,77.9 23.7,66.6C23.7,55.3 32.9,46.1 44.2,46.1C55.5,46.1 64.7,55.3 64.7,66.6" style="fill:white;fill-rule:nonzero;"/>
+        </g>
+        <g transform="matrix(1.79924,0,0,1.79924,24.9738,20.3329)">
+            <path d="M44.2,45.2C32.4,45.2 22.7,54.8 22.7,66.7C22.7,78.5 32.3,88.2 44.2,88.2C56,88.2 65.7,78.6 65.7,66.7C65.7,54.8 56.1,45.2 44.2,45.2M30.2,52.5C32.8,49.9 35.7,48.5 36.6,49.4C37.5,50.3 36.1,53.2 33.5,55.8C30.9,58.4 28,59.8 27.1,58.9C26.2,58 27.6,55.1 30.2,52.5M23.7,66.6C23.7,65.6 23.8,64.6 23.9,63.6C24.3,64.3 25.3,65.6 26.8,65.6C28.9,65.7 33.1,63.1 36.4,59.8C39.7,56.5 43.3,50.8 45.1,49.3C47,47.8 48.3,47.7 48.3,47.7C48.3,47.7 49.4,47.5 50.5,47.6C51.6,47.7 52.7,48 52.8,48.1C52,48 51.4,48.1 50.9,48.5C49.6,49.8 51,53.3 54,56.3C57,59.3 60.5,60.7 61.9,59.4C62.4,58.9 62.5,58.1 62.3,57.1C62.6,57.7 62.9,58.3 63.2,59C63.2,59 63.8,62 62.4,63.7C61.7,64.6 60.7,65 59.2,65C57.9,65.1 54.1,65 51.8,65C51.1,61.4 47.9,58.7 44.1,58.7C39.8,58.7 36.2,62.2 36.2,66.6C36.2,66.8 36.2,67 36.2,67.2C33.9,67.2 30.2,67.1 28.9,67.2C27.2,67.2 25.9,67.8 25,68.9C24.4,69.6 24.1,70.5 24,71.4C23.9,69.8 23.7,68.3 23.7,66.6M58.2,80.8C55.6,83.4 52.7,84.8 51.8,83.9C50.9,83 52.3,80.1 54.9,77.5C57.5,74.9 60.4,73.5 61.3,74.4C62.3,75.3 60.9,78.1 58.2,80.8M61.6,67.6C59.5,67.5 55.3,70.1 52,73.4C48.7,76.7 45.1,82.4 43.3,83.9C41.4,85.4 40.1,85.5 40.1,85.5C40.1,85.5 38.8,85.7 37.6,85.6C36.6,85.5 35.7,85.1 35.6,85.1C36.4,85.2 37,85.1 37.5,84.7C38.8,83.4 37.4,79.9 34.4,76.8C31.4,73.8 27.9,72.4 26.5,73.7C26,74.2 25.9,75 26.1,76C25.8,75.4 25.5,74.8 25.2,74.1C25.2,74.1 24.6,71.1 26,69.4C26.7,68.5 27.7,68.1 29.2,68.1C30.5,68 34.3,68.1 36.5,68.1C37.2,71.7 40.4,74.5 44.2,74.5C48.5,74.5 52.1,71 52.1,66.6C52.1,66.4 52.1,66.2 52.1,66C54.4,66 58.1,66.1 59.4,66C61.1,66 62.4,65.4 63.3,64.3C63.9,63.6 64.2,62.7 64.3,61.8C64.7,63.3 64.9,64.9 64.9,66.6C64.9,67.6 64.8,68.6 64.7,69.6C64.1,68.9 63.2,67.6 61.6,67.6" style="fill:rgb(16,53,127);fill-rule:nonzero;"/>
+        </g>
+        <g transform="matrix(1.79924,0,0,1.79924,24.9738,20.3329)">
+            <path d="M39.8,27.3L35.5,37.5L32.7,37.5L30.6,29.4C30.5,28.9 30.4,28.7 30,28.5C29.4,28.2 28.3,27.8 27.4,27.6L27.5,27.3L32,27.3C32.6,27.3 33.1,27.7 33.2,28.3L34.3,34.2L37,27.3L39.8,27.3ZM50.7,34.2C50.7,31.5 47,31.4 47,30.2C47,29.8 47.4,29.4 48.1,29.3C48.5,29.3 49.5,29.2 50.7,29.8L51.2,27.6C50.6,27.4 49.8,27.1 48.7,27.1C46.1,27.1 44.3,28.5 44.3,30.5C44.3,32 45.6,32.8 46.6,33.3C47.6,33.8 48,34.1 48,34.6C48,35.3 47.2,35.6 46.4,35.6C45.1,35.6 44.3,35.2 43.7,35L43.2,37.2C43.8,37.5 44.9,37.7 46.1,37.7C48.9,37.6 50.7,36.3 50.7,34.2M57.6,37.5L60,37.5L57.9,27.3L55.7,27.3C55.2,27.3 54.8,27.6 54.6,28L50.6,37.4L53.4,37.4L53.9,35.9L57.3,35.9L57.6,37.5ZM54.7,33.9L56.1,30.1L56.9,33.9L54.7,33.9ZM43.6,27.3L41.4,37.5L38.8,37.5L41,27.3L43.6,27.3Z" style="fill:white;fill-rule:nonzero;"/>
+        </g>
+        <g>
+            <g>
+                <g transform="matrix(1,0,0,1,48.0584,-17.298)">
+                    <text x="58.935px" y="76.969px" style="font-family:'MyriadPro-Semibold', 'Myriad Pro', sans-serif;font-weight:600;font-size:8.5px;fill:white;">Щ</text>
+                </g>
+                <g transform="matrix(1,0,0,1,36.2987,-19.4441)">
+                    <text x="62.611px" y="79.115px" style="font-family:'MyriadPro-Semibold', 'Myriad Pro', sans-serif;font-weight:600;font-size:8.5px;fill:white;">Ь</text>
+                </g>
+                <g transform="matrix(1,0,0,1,-2,2.44198)">
+                    <text x="119.706px" y="57.229px" style="font-family:'MyriadPro-Semibold', 'Myriad Pro', sans-serif;font-weight:600;font-size:8.5px;fill:white;">И</text>
+                </g>
+                <g transform="matrix(1.79924,0,0,1.79924,57.418,59.6686)">
+                    <text x="0px" y="0px" style="font-family:'MyriadPro-Semibold', 'Myriad Pro', sans-serif;font-weight:600;font-size:4.722px;fill:white;">Б</text>
+                </g>
+                <g transform="matrix(1.79924,0,0,1.79924,74.6906,59.6686)">
+                    <text x="0px" y="0px" style="font-family:'MyriadPro-Semibold', 'Myriad Pro', sans-serif;font-weight:600;font-size:4.722px;fill:white;">Л</text>
+                </g>
+                <g transform="matrix(1.79924,0,0,1.79924,90.6906,59.6686)">
+                    <text x="0px" y="0px" style="font-family:'MyriadPro-Semibold', 'Myriad Pro', sans-serif;font-weight:600;font-size:4.722px;fill:white;">Л</text>
+                </g>
+                <g transform="matrix(1.79924,0,0,1.79924,83.147,59.6686)">
+                    <text x="0px" y="0px" style="font-family:'MyriadPro-Semibold', 'Myriad Pro', sans-serif;font-weight:600;font-size:4.722px;fill:white;">Е</text>
+                </g>
+                <g transform="matrix(1.79924,0,0,1.79924,126.408,59.6686)">
+                    <text x="0px" y="0px" style="font-family:'MyriadPro-Semibold', 'Myriad Pro', sans-serif;font-weight:600;font-size:4.722px;fill:white;">К</text>
+                </g>
+                <g transform="matrix(1.79924,0,0,1.79924,135.325,59.7621)">
+                    <text x="0px" y="0px" style="font-family:'MyriadPro-Semibold', 'Myriad Pro', sans-serif;font-weight:600;font-size:4.722px;fill:white;">О</text>
+                </g>
+                <g transform="matrix(1.79924,0,0,1.79924,65.3249,59.7621)">
+                    <text x="0px" y="0px" style="font-family:'MyriadPro-Semibold', 'Myriad Pro', sans-serif;font-weight:600;font-size:4.722px;fill:white;">О</text>
+                </g>
+                <g transform="matrix(1.79924,0,0,1.79924,144.501,59.7111)">
+                    <text x="0px" y="0px" style="font-family:'MyriadPro-Semibold', 'Myriad Pro', sans-serif;font-weight:600;font-size:4.722px;fill:white;">В</text>
+                </g>
+            </g>
+            <g transform="matrix(1.79924,0,0,1.79924,56.7837,48.1584)">
+                <text x="0px" y="0px" style="font-family:'MyriadPro-Bold', 'Myriad Pro', sans-serif;font-weight:700;font-size:10.71px;fill:white;">К</text>
+            </g>
+            <g transform="matrix(1.79924,0,0,1.79924,68.1189,48.1584)">
+                <text x="0px" y="0px" style="font-family:'MyriadPro-Bold', 'Myriad Pro', sans-serif;font-weight:700;font-size:10.71px;fill:white;">О</text>
+            </g>
+            <g transform="matrix(1.79924,0,0,1.79924,68.1189,48.1584)">
+                <text x="0px" y="0px" style="font-family:'MyriadPro-Bold', 'Myriad Pro', sans-serif;font-weight:700;font-size:10.71px;fill:white;">О</text>
+            </g>
+            <g transform="matrix(1.79924,0,0,1.79924,81.7931,48.1584)">
+                <text x="0px" y="0px" style="font-family:'MyriadPro-Bold', 'Myriad Pro', sans-serif;font-weight:700;font-size:10.71px;fill:white;">МАН</text>
+            </g>
+            <g transform="matrix(1.79924,0,0,1.79924,124.075,48.1584)">
+                <text x="0px" y="0px" style="font-family:'MyriadPro-Bold', 'Myriad Pro', sans-serif;font-weight:700;font-size:10.71px;fill:white;">Д</text>
+            </g>
+            <g transform="matrix(1.79924,0,0,1.79924,137.389,48.1584)">
+                <text x="0px" y="0px" style="font-family:'MyriadPro-Bold', 'Myriad Pro', sans-serif;font-weight:700;font-size:10.71px;fill:white;">А</text>
+            </g>
+        </g>
+    </g>
+</svg>
